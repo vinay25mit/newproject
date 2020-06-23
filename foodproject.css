@@ -1,0 +1,75 @@
+body{
+  background-image:url("C:\Users\hp\Desktop\foodproject\website.jpg");
+  background-size: cover;
+}
+#d1{
+  align:center;
+  width:300px;
+  height:500px;
+  border: 2px solid black;
+  background-color: pink;
+  margin-left: 500px;
+  margin-top: : 600px;
+
+  padding: 50px;
+  border-radius: 30px;
+  line-height: 25px;
+  font-style: italic;
+  object-position: center;
+  opacity: 0.7;
+  font-weight: bolder;
+  box-shadow: 40px 30px 30px 20px orange;
+
+
+h2{
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+}
+img{
+  width: 300px;
+}
+nav {
+    background: orange;
+    height: 80px;
+    width:100%;
+  display: inline-block;
+}
+label.logo{
+  color: white;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+}
+nav ul{
+  float: right;
+  margin-right: 20px;
+}
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+nav ul li a{
+  color: white;
+  font-size: 17px;
+  text-transform: uppercase;
+  padding: 7px;
+  border-radius: 3px;
+
+}
+a.home,a:hover
+{
+  background: pink;
+  transform: .5s;
+}
+none{
+  width: 400px;
+  height: 550px;
+  border: 2px solid red;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4T_sG6X61Ul_ewTcWKsLwclk5NFI0etvUCyhAEY-XAE3-_JeM&usqp=CAU");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
